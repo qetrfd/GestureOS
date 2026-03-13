@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dataset / training files
+dataset/
+
+# Temporary files
+*.tmp
